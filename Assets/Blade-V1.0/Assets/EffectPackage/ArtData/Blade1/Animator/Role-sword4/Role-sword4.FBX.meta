@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: de134c6e365234845b8a2b4f3beba936
+timeCreated: 1562998341
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bip001
+    100002: Bip001 Footsteps
+    100004: Bip001 Head
+    100006: Bip001 HeadNub
+    100008: Bip001 L Calf
+    100010: Bip001 L Clavicle
+    100012: Bip001 L Finger0
+    100014: Bip001 L Finger01
+    100016: Bip001 L Finger02
+    100018: Bip001 L Finger0Nub
+    100020: Bip001 L Finger1
+    100022: Bip001 L Finger11
+    100024: Bip001 L Finger12
+    100026: Bip001 L Finger1Nub
+    100028: Bip001 L Finger2
+    100030: Bip001 L Finger21
+    100032: Bip001 L Finger22
+    100034: Bip001 L Finger2Nub
+    100036: Bip001 L Finger3
+    100038: Bip001 L Finger31
+    100040: Bip001 L Finger32
+    100042: Bip001 L Finger3Nub
+    100044: Bip001 L Finger4
+    100046: Bip001 L Finger41
+    100048: Bip001 L Finger42
+    100050: Bip001 L Finger4Nub
+    100052: Bip001 L Foot
+    100054: Bip001 L Forearm
+    100056: Bip001 L ForeTwist
+    100058: Bip001 L Hand
+    100060: Bip001 L Thigh
+    100062: Bip001 L Toe0
+    100064: Bip001 L Toe0Nub
+    100066: Bip001 L UpperArm
+    100068: Bip001 Neck
+    100070: Bip001 Pelvis
+    100072: Bip001 Prop1
+    100074: Bip001 R Calf
+    100076: Bip001 R Clavicle
+    100078: Bip001 R Finger0
+    100080: Bip001 R Finger01
+    100082: Bip001 R Finger02
+    100084: Bip001 R Finger0Nub
+    100086: Bip001 R Finger1
+    100088: Bip001 R Finger11
+    100090: Bip001 R Finger12
+    100092: Bip001 R Finger1Nub
+    100094: Bip001 R Finger2
+    100096: Bip001 R Finger21
+    100098: Bip001 R Finger22
+    100100: Bip001 R Finger2Nub
+    100102: Bip001 R Finger3
+    100104: Bip001 R Finger31
+    100106: Bip001 R Finger32
+    100108: Bip001 R Finger3Nub
+    100110: Bip001 R Finger4
+    100112: Bip001 R Finger41
+    100114: Bip001 R Finger42
+    100116: Bip001 R Finger4Nub
+    100118: Bip001 R Foot
+    100120: Bip001 R Forearm
+    100122: Bip001 R ForeTwist
+    100124: Bip001 R Hand
+    100126: Bip001 R Thigh
+    100128: Bip001 R Toe0
+    100130: Bip001 R Toe0Nub
+    100132: Bip001 R UpperArm
+    100134: Bip001 Spine
+    100136: Bip001 Spine1
+    100138: Bone001
+    100140: Bone002
+    100142: Bone008
+    100144: Bone009
+    100146: Bone010
+    100148: Bone011
+    100150: Bone012
+    100152: Bone013
+    100154: Bone014
+    100156: Bone015
+    100158: Bone016
+    100160: Bone017
+    100162: Bone018
+    100164: Bone019
+    100166: Bone020
+    100168: Bone021
+    100170: Bone022
+    100172: Bone023
+    100174: Bone024
+    100176: Bone025
+    100178: Bone026
+    100180: Bone027
+    100182: Bone028
+    100184: Bone029
+    100186: Bone030
+    100188: Bone031
+    100190: Bone032
+    100192: kz
+    100194: Object001
+    100196: Object002
+    100198: Object003
+    100200: Object004
+    100202: Object005
+    100204: Object006
+    100206: Object007
+    100208: Omni001
+    100210: Plane001
+    100212: //RootNode
+    100214: skinSource0
+    100216: skinSource0ADD
+    100218: skinSource0AKC
+    100220: skinSource0ANC
+    100222: skinSource0CED
+    100224: skinSource0CFC
+    100226: skinSource0CIC
+    100228: skinSource0CLC
+    100230: skinSource0COC
+    100232: skinSource0EGC
+    100234: skinSource0EJC
+    100236: skinSource0EMC
+    100238: skinSource0EPC
+    100240: skinSource0GKC
+    100242: skinSource0GNC
+    100244: skinSource0IFC
+    100246: skinSource0IIC
+    100248: skinSource0ILC
+    100250: skinSource0IOC
+    100252: skinSource0KCD
+    100254: skinSource0KJC
+    100256: skinSource0KMC
+    100258: skinSource0KPC
+    100260: skinSource0MHC
+    100262: skinSource0MKC
+    100264: skinSource0MNC
+    100266: skinSource0OBD
+    100268: skinSource0OFC
+    100270: skinSource0OIC
+    100272: skinSource0OLC
+    100274: skinSource0OOC
+    100276: source0DF
+    100278: source1
+    400000: Bip001
+    400002: Bip001 Footsteps
+    400004: Bip001 Head
+    400006: Bip001 HeadNub
+    400008: Bip001 L Calf
+    400010: Bip001 L Clavicle
+    400012: Bip001 L Finger0
+    400014: Bip001 L Finger01
+    400016: Bip001 L Finger02
+    400018: Bip001 L Finger0Nub
+    400020: Bip001 L Finger1
+    400022: Bip001 L Finger11
+    400024: Bip001 L Finger12
+    400026: Bip001 L Finger1Nub
+    400028: Bip001 L Finger2
+    400030: Bip001 L Finger21
+    400032: Bip001 L Finger22
+    400034: Bip001 L Finger2Nub
+    400036: Bip001 L Finger3
+    400038: Bip001 L Finger31
+    400040: Bip001 L Finger32
+    400042: Bip001 L Finger3Nub
+    400044: Bip001 L Finger4
+    400046: Bip001 L Finger41
+    400048: Bip001 L Finger42
+    400050: Bip001 L Finger4Nub
+    400052: Bip001 L Foot
+    400054: Bip001 L Forearm
+    400056: Bip001 L ForeTwist
+    400058: Bip001 L Hand
+    400060: Bip001 L Thigh
+    400062: Bip001 L Toe0
+    400064: Bip001 L Toe0Nub
+    400066: Bip001 L UpperArm
+    400068: Bip001 Neck
+    400070: Bip001 Pelvis
+    400072: Bip001 Prop1
+    400074: Bip001 R Calf
+    400076: Bip001 R Clavicle
+    400078: Bip001 R Finger0
+    400080: Bip001 R Finger01
+    400082: Bip001 R Finger02
+    400084: Bip001 R Finger0Nub
+    400086: Bip001 R Finger1
+    400088: Bip001 R Finger11
+    400090: Bip001 R Finger12
+    400092: Bip001 R Finger1Nub
+    400094: Bip001 R Finger2
+    400096: Bip001 R Finger21
+    400098: Bip001 R Finger22
+    400100: Bip001 R Finger2Nub
+    400102: Bip001 R Finger3
+    400104: Bip001 R Finger31
+    400106: Bip001 R Finger32
+    400108: Bip001 R Finger3Nub
+    400110: Bip001 R Finger4
+    400112: Bip001 R Finger41
+    400114: Bip001 R Finger42
+    400116: Bip001 R Finger4Nub
+    400118: Bip001 R Foot
+    400120: Bip001 R Forearm
+    400122: Bip001 R ForeTwist
+    400124: Bip001 R Hand
+    400126: Bip001 R Thigh
+    400128: Bip001 R Toe0
+    400130: Bip001 R Toe0Nub
+    400132: Bip001 R UpperArm
+    400134: Bip001 Spine
+    400136: Bip001 Spine1
+    400138: Bone001
+    400140: Bone002
+    400142: Bone008
+    400144: Bone009
+    400146: Bone010
+    400148: Bone011
+    400150: Bone012
+    400152: Bone013
+    400154: Bone014
+    400156: Bone015
+    400158: Bone016
+    400160: Bone017
+    400162: Bone018
+    400164: Bone019
+    400166: Bone020
+    400168: Bone021
+    400170: Bone022
+    400172: Bone023
+    400174: Bone024
+    400176: Bone025
+    400178: Bone026
+    400180: Bone027
+    400182: Bone028
+    400184: Bone029
+    400186: Bone030
+    400188: Bone031
+    400190: Bone032
+    400192: kz
+    400194: Object001
+    400196: Object002
+    400198: Object003
+    400200: Object004
+    400202: Object005
+    400204: Object006
+    400206: Object007
+    400208: Omni001
+    400210: Plane001
+    400212: //RootNode
+    400214: skinSource0
+    400216: skinSource0ADD
+    400218: skinSource0AKC
+    400220: skinSource0ANC
+    400222: skinSource0CED
+    400224: skinSource0CFC
+    400226: skinSource0CIC
+    400228: skinSource0CLC
+    400230: skinSource0COC
+    400232: skinSource0EGC
+    400234: skinSource0EJC
+    400236: skinSource0EMC
+    400238: skinSource0EPC
+    400240: skinSource0GKC
+    400242: skinSource0GNC
+    400244: skinSource0IFC
+    400246: skinSource0IIC
+    400248: skinSource0ILC
+    400250: skinSource0IOC
+    400252: skinSource0KCD
+    400254: skinSource0KJC
+    400256: skinSource0KMC
+    400258: skinSource0KPC
+    400260: skinSource0MHC
+    400262: skinSource0MKC
+    400264: skinSource0MNC
+    400266: skinSource0OBD
+    400268: skinSource0OFC
+    400270: skinSource0OIC
+    400272: skinSource0OLC
+    400274: skinSource0OOC
+    400276: source0DF
+    400278: source1
+    2100000: 'Material #37'
+    2100002: 'Material #47'
+    2100004: 'Material #62'
+    2100006: 'Material #46'
+    2100008: 'Material #81'
+    2100010: 'Material #42'
+    2100012: 'Material #56'
+    2100014: 'Material #43'
+    2100016: 'Material #63'
+    2100018: 'Material #59'
+    2100020: 'Material #64'
+    2100022: 'Material #66'
+    2100024: 'Material #65'
+    2100026: 'Material #60'
+    2100028: 'Material #69'
+    2100030: 'Material #68'
+    2100032: 'Material #67'
+    2100034: 'Material #72'
+    2100036: 'Material #71'
+    2100038: 'Material #70'
+    2100040: 'Material #75'
+    2100042: 'Material #74'
+    2100044: 'Material #73'
+    2100046: 'Material #61'
+    2100048: 'Material #57'
+    2100050: 'Material #52'
+    2100052: 'Material #54'
+    2100054: 'Material #55'
+    2100056: 'Material #53'
+    2100058: 'Material #39'
+    2100060: 'Material #38'
+    2100062: 'Material #40'
+    2100064: 'Material #41'
+    2100066: 'Material #49'
+    2100068: 'Material #48'
+    2100070: 'Material #51'
+    2100072: 'Material #50'
+    2100074: 'Material #78'
+    2100076: 'Material #77'
+    2100078: No Name
+    2100080: 'Material #44'
+    2100082: 'Material #45'
+    2300000: Object001
+    2300002: Object002
+    2300004: Object003
+    2300006: Object005
+    2300008: Object006
+    2300010: Object007
+    2300012: Plane001
+    2300014: skinSource0ADD
+    2300016: skinSource0AKC
+    2300018: skinSource0ANC
+    2300020: skinSource0CED
+    2300022: skinSource0CFC
+    2300024: skinSource0CIC
+    2300026: skinSource0CLC
+    2300028: skinSource0COC
+    2300030: skinSource0EGC
+    2300032: skinSource0EJC
+    2300034: skinSource0EMC
+    2300036: skinSource0GKC
+    2300038: skinSource0GNC
+    2300040: skinSource0IFC
+    2300042: skinSource0IIC
+    2300044: skinSource0ILC
+    2300046: skinSource0IOC
+    2300048: skinSource0KCD
+    2300050: skinSource0KJC
+    2300052: skinSource0KMC
+    2300054: skinSource0KPC
+    2300056: skinSource0MHC
+    2300058: skinSource0MKC
+    2300060: skinSource0MNC
+    2300062: skinSource0OBD
+    2300064: skinSource0OFC
+    2300066: skinSource0OIC
+    2300068: skinSource0OLC
+    2300070: skinSource0OOC
+    2300072: source1
+    3300000: Object001
+    3300002: Object002
+    3300004: Object003
+    3300006: Object005
+    3300008: Object006
+    3300010: Object007
+    3300012: Plane001
+    3300014: skinSource0ADD
+    3300016: skinSource0AKC
+    3300018: skinSource0ANC
+    3300020: skinSource0CED
+    3300022: skinSource0CFC
+    3300024: skinSource0CIC
+    3300026: skinSource0CLC
+    3300028: skinSource0COC
+    3300030: skinSource0EGC
+    3300032: skinSource0EJC
+    3300034: skinSource0EMC
+    3300036: skinSource0GKC
+    3300038: skinSource0GNC
+    3300040: skinSource0IFC
+    3300042: skinSource0IIC
+    3300044: skinSource0ILC
+    3300046: skinSource0IOC
+    3300048: skinSource0KCD
+    3300050: skinSource0KJC
+    3300052: skinSource0KMC
+    3300054: skinSource0KPC
+    3300056: skinSource0MHC
+    3300058: skinSource0MKC
+    3300060: skinSource0MNC
+    3300062: skinSource0OBD
+    3300064: skinSource0OFC
+    3300066: skinSource0OIC
+    3300068: skinSource0OLC
+    3300070: skinSource0OOC
+    3300072: source1
+    4300000: source0DF
+    4300002: skinSource0EPC
+    4300004: skinSource0
+    4300006: skinSource0OIC
+    4300008: skinSource0IIC
+    4300010: skinSource0CIC
+    4300012: skinSource0AKC
+    4300014: skinSource0KJC
+    4300016: skinSource0EJC
+    4300018: skinSource0CLC
+    4300020: skinSource0MKC
+    4300022: skinSource0GKC
+    4300024: skinSource0EMC
+    4300026: skinSource0OLC
+    4300028: skinSource0ILC
+    4300030: skinSource0GNC
+    4300032: skinSource0ANC
+    4300034: skinSource0KMC
+    4300036: skinSource0MHC
+    4300038: Object002
+    4300040: Object001
+    4300042: skinSource0KPC
+    4300044: skinSource0OOC
+    4300046: skinSource0COC
+    4300048: skinSource0IOC
+    4300050: skinSource0MNC
+    4300052: skinSource0OBD
+    4300054: skinSource0KCD
+    4300056: skinSource0ADD
+    4300058: skinSource0CED
+    4300060: skinSource0OFC
+    4300062: skinSource0EGC
+    4300064: Object003
+    4300066: skinSource0CFC
+    4300068: Object005
+    4300070: Object007
+    4300072: Object006
+    4300074: skinSource0IFC
+    4300076: source1
+    4300078: Object004
+    4300080: Plane001
+    4300082: kz
+    7400000: Take 001
+    9500000: //RootNode
+    10800000: Omni001
+    13700000: kz
+    13700002: Object004
+    13700004: skinSource0
+    13700006: skinSource0EPC
+    13700008: source0DF
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
